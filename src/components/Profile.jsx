@@ -13,6 +13,7 @@ export default function Profile({ statsChange }) {
         <img
           className="object-contain w-12 h-12 border-white border-2 border-solid rounded-full mb-4"
           src="./images/image-jeremy.png"
+          alt="profile image"
         />
         <div>
           <p className="text-Blue-4 text-sm">Report for</p>

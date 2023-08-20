@@ -25,6 +25,7 @@ export default function Card({ tileType, last, today, imageType, category }) {
           <p className="text-white font-md text-sm">{tileType}</p>
           <img
             src="./images/icon-ellipsis.svg"
+            alt="icon image"
             className="h-full cursor-pointer"
           />
         </div>

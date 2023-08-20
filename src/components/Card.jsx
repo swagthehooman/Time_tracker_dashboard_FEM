@@ -19,14 +19,15 @@ export default function Card({ tileType, last, today, imageType, category }) {
       <img
         src={imageType}
         className="object-contain w-12 h-12 absolute right-2 -top-2"
+        alt="icon image"
       />
       <div className="bg-Blue-2 rounded-lg p-6 absolute bottom-0 w-full hover:bg-Blue-3 cursor-pointer">
         <div className="flex justify-between items-center mb-4">
           <p className="text-white font-md text-sm">{tileType}</p>
           <img
             src="./images/icon-ellipsis.svg"
-            alt="icon image"
             className="h-full cursor-pointer"
+            alt="options"
           />
         </div>
         <div className="max-[640px]:flex max-[640px]:justify-between max-[640px]:items-center">

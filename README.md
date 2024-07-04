@@ -1,8 +1,12 @@
-# React + Vite
+# Time Tracker Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This is a [Frontend mentor challenge](). In this challenge, we have to replicate the time tracker dashboard close to the given design, which is responsive.
 
-Currently, two official plugins are available:
+## Tech stack
+1) React.js
+2) Tailwind css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deployment
+1) Repo: [click here](https://github.com/swagthehooman/Time_tracker_dashboard_FEM)
+2) Live site: [click here](https://swagnik-time-tracker.netlify.app/)
